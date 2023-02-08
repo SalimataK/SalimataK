@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salimata Kanta</h1>
 
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">Junior developer</h3>
 
 ![image](https://user-images.githubusercontent.com/97314712/217438559-c9432f5b-475c-4e09-8c67-fa3fd981a7ed.png)
 
