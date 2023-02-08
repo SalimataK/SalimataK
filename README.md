@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salimata Kanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://www.bing.com/images/search?view=detailV2&ccid=gGIesvTy&id=6F307E03B7A46E349BF545F461FD2AC08B0CDE29&thid=OIP.gGIesvTycoy0TE14JUZDmQHaD2&mediaurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fabstract-science-network-and-innovation-businessman-holding-brain-in-picture-id1069541140%3Fk%3D6%26m%3D1069541140%26s%3D170667a%26w%3D0%26h%3D2THrk78caVmvGW-9REyzwhVUYY7t2321KMX08hgQ6j0%3D&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.80621eb2f4f2728cb44c4d7825464399%3Frik%3DKd4Mi8Aq%252fWH0RQ%26pid%3DImgRaw%26r%3D0&exph=299&expw=576&q=science+network&simid=608054557949122110&form=IRPRST&ck=68E6EB41DC1E676FE5A6D5394CFAAD7C&selectedindex=39&ajaxhist=0&ajaxserp=0&vt=0
+
+![image](https://user-images.githubusercontent.com/97314712/217435557-bc63bc52-44ce-4811-9b80-07f17dc8757c.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salimatak&label=Profile%20views&color=0e75b6&style=flat" alt="salimatak" /> </p>
 
