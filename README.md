@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salimata Kanta</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
-![image](https://user-images.githubusercontent.com/97314712/217437787-40293e73-59ca-492c-8bc6-39e2f9ce4d28.png)
+![image](https://user-images.githubusercontent.com/97314712/217437930-1f12f4be-0424-4aa3-82ad-ee2a07efdce4.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salimatak&label=Profile%20views&color=0e75b6&style=flat" alt="salimatak" /> </p>
 
