@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-![image](https://user-images.githubusercontent.com/97314712/217438153-0948c2f0-8a37-47ca-a75f-f4e87b10f1bf.png)
+![image](https://user-images.githubusercontent.com/97314712/217438559-c9432f5b-475c-4e09-8c67-fa3fd981a7ed.png)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salimatak&label=Profile%20views&color=0e75b6&style=flat" alt="salimatak" /> </p>
